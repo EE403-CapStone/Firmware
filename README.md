@@ -57,6 +57,20 @@ R6 | SW0     SW7     SW14
 NumPad Firmware
 ---------------
 
+```
+keyboard.keymap = [
+    [
+        KC.F11,          KC.F12,       KC.F13,   
+        KC.KP_ASTERICK,  KC.KP_SLASH,  KC.CIRCUMFLEX,    
+        KC.KP_PLUS,      KC.KP_MINUS,  KC.KP_EQUAL,    
+        KC.KP_7,         KC.KP_8,      KC.KP_9, 
+        KC.KP_4,         KC.KP_5,      KC.KP_6, 
+        KC.KP_1,         KC.KP_2,      KC.KP_3, 
+        KC.KP_0,         KC.X,         KC.C, 
+    ]
+]
+```
+
 Joystick Module
 ===============
 
