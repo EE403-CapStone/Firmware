@@ -1,2 +1,9 @@
 # Firmware
-Contains information pertaining to firmware created necessary to configure and handle the peripherals in this calculator.
+Peripherals configured in CircuitPython, utilizing KMK firmware.[^1]
+
+
+
+
+
+
+[^1]: http://kmkfw.io
