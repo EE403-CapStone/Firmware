@@ -49,6 +49,15 @@ NumPad Firmware
 Joystick Module
 ===============
 
+```
+R0 |         SW3   
+R1 | SW1             SW19
+R2 |         SW2    
+
+    ---------------------
+     C0      C1      C2
+```
+
 Joystick Firmware
 -----------------
 
