@@ -31,6 +31,18 @@ Keyboard Firmware
 NumPad Module
 =============
 
+```
+R0 | SW6     SW13    SW20 
+R1 | SW5     SW12    SW19
+R2 | SW4     SW11    SW18
+R3 | SW3     SW10    SW17
+R4 | SW2     SW9     SW16
+R5 | SW1     SW8     SW15
+R6 | SW0     SW7     SW14
+    ---------------------
+     C0      C1      C2
+```
+
 NumPad Firmware
 ---------------
 
