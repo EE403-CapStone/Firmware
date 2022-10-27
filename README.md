@@ -86,4 +86,14 @@ R2 |         SW2
 Joystick Firmware
 -----------------
 
+```
+keyboard.keymap = [
+    [
+        KC.NO,    KC.UP,    KC.NO,
+        KC.LEFT,  KC.NO,    KC.RIGHT, 
+        KC.NO,    KC.DOWN,  KC.NO, 
+    ]
+]
+```
+
 [^1]: http://kmkfw.io
