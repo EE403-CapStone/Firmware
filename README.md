@@ -28,6 +28,17 @@ R3 | SW0     SW4     SW8     SW12    SW16    SW20    SW24    SW28    SW32    SW3
 Keyboard Firmware
 -----------------
 
+```
+keyboard.keymap = [
+    [
+        KC.F1,   KC.F2,   KC.F3,   KC.F4,   KC.F5,   KC.F6,   KC.F7,   KC.F8,   KC.F9,     KC.F10,
+        KC.Q,    KC.W,    KC.E,    KC.R,    KC.T,    KC.Y,    KC.U,    KC.I,    KC.O,      KC.P,
+        KC.A,    KC.S,    KC.D,    KC.F,    KC.G,    KC.H,    KC.J,    KC.K,    KC.L,      KC.BSPACE,
+        KC.Z,    KC.X,    KC.C,    KC.V,    KC.B,    KC.N,    KC.M,    KC.NO,    KC.RSHIFT, KC.RCTRL,
+    ]
+]
+```
+
 NumPad Module
 =============
 
