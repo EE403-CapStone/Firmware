@@ -13,6 +13,7 @@ Table of contents
       * [Joystick Firmware](#Joystick-Firmware)
 <!--te-->
 
+```
 Keyboard Module
 ===============
 
@@ -23,6 +24,6 @@ R3 | SW0     SW4     SW8     SW12    SW16    SW20    SW24    SW28    SW32    SW3
     -----------------------------------------------------------------------------
      C0      C1      C2      C3      C4      C5      C6      C7      C8      C9
 
-
+```
 
 [^1]: http://kmkfw.io
